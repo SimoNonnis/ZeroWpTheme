@@ -20,8 +20,8 @@
 </head>
 
 <body <?php body_class(); ?>>
-<!--[if lt IE 9]>
-  <p class="browsehappy">You are using an <strong>outdated</strong> and <strong>unsecure</strong> browser. Please <a href="http://browsehappy.com/ target="_blank"">upgrade your browser</a> to improve your experience.</p>
+<!--[if lte IE 9]>
+  <p class="browserupgrade">You are using an <strong>outdated</strong> and <strong>insecure</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 <noscript>
 For full functionality of this site it is necessary to enable JavaScript.
