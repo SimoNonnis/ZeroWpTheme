@@ -5,7 +5,7 @@
  */
 require_once locate_template('/functions/zero_setup.php');        //Enable support for Post Thumbnails
 require_once locate_template('/functions/head_cleanup.php');      //head cleanup (remove rsd, uri links, junk css, ect)
-require_once locate_template('/functions/more_cleanup.php');      //more cleanup (remove rsd, uri links, junk css, ect)
+require_once locate_template('/functions/more_cleanup.php');      //Remove <p> wrapper and sizes from <img> in posts
 require_once locate_template('/functions/enqueue_css.php');       //CSS
 require_once locate_template('/functions/enqueue_scripts.php');   //JS
 require_once locate_template('/functions/helpers.php');           //Helpers Functions
