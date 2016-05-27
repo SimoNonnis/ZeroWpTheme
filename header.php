@@ -3,15 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <title><?php wp_title('|', true, 'right'); ?></title>
   <!-- Meta description will be added by Yoast WordPress SEO plugin -->
   
   <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="HandheldFriendly" content="True"> <!-- For older dumb phones. Palm and Blackberries -->
-  <meta name="MobileOptimized" content="320"> <!-- Older "Windows Mobile" Phones -->
   <meta name="apple-mobile-web-app-capable" content="yes"><!-- iOS meta tag defines whether the web application should run in full-screen mode -->  
   <meta name="format-detection" content="telephone=no"><!-- Prevent iOS to change the style of a telephone number -->
   
